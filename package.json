@@ -1,0 +1,15 @@
+{
+  "name": "simplest-ddd",
+  "version": "1.0.0",
+  "description": "Pour présenter le DDD",
+  "author": "Sylvain Desvé <sylvain.desve@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.20",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
